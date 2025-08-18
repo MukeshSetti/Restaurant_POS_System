@@ -97,6 +97,7 @@ Restaurant_POS_System/
 ├── frontend/           # React.js client with Redux Toolkit
 ├── README.md
 └── .gitignore
+```
 ---
 ## 👨‍💻 Author
 
