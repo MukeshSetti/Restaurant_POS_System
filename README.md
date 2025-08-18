@@ -55,7 +55,19 @@ A robust and scalable Point of Sale (POS) system tailored for restaurant operati
    git clone https://github.com/MukeshSetti/Restaurant_POS_System.git
    cd Restaurant_POS_System
 
-2. **Install backend dependencies
+2. **Install backend dependencies**
    ```bash
    cd backend
    npm install
+
+3. **Install frontend dependencies**
+   ```bash
+   cd ../frontend
+   npm install
+
+4. **Set up environment variables**
+   Create .env files in both backend and frontend directories as needed. Example for backend:
+
+   ```ini
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_secret_key
