@@ -2,7 +2,6 @@
 
 A robust and scalable Point of Sale (POS) system tailored for restaurant operations. This full-stack web application streamlines tasks such as order processing, table management, inventory tracking, and payment handling. Designed for real-world usability with distinct dashboards for cashiers, waiters, and managers.
 
-🔗 **Live Demo:** _[Coming Soon]_  
 📦 **Repository:** [Restaurant POS System](https://github.com/MukeshSetti/Restaurant_POS_System)
 
 ---
@@ -55,3 +54,8 @@ A robust and scalable Point of Sale (POS) system tailored for restaurant operati
    ```bash
    git clone https://github.com/MukeshSetti/Restaurant_POS_System.git
    cd Restaurant_POS_System
+
+2. **Install backend dependencies
+   ```bash
+   cd backend
+   npm install
