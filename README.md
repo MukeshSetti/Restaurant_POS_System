@@ -62,7 +62,7 @@ A robust and scalable Point of Sale (POS) system tailored for restaurant operati
 
 3. **Install frontend dependencies**
    ```bash
-   cd ../frontend
+   cd frontend
    npm install
 
 4. **Set up environment variables**
@@ -71,3 +71,13 @@ A robust and scalable Point of Sale (POS) system tailored for restaurant operati
    ```ini
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
+
+5. **Run the application**
+   - Backend:
+     ```bash
+     cd backend
+     npm run dev
+    - Frontend
+      ```bash
+      cd frontend
+      npm run dev
