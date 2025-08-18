@@ -91,14 +91,14 @@ Add screenshots or screen recordings here to show the interface.
 ---
 ## 📁 Project Structure
 
-- ```bash
+```markdown
 Restaurant_POS_System/
 ├── backend/            # Node.js + Express API
 ├── frontend/           # React.js client with Redux Toolkit
 ├── README.md
 └── .gitignore
-
-- ## 👨‍💻 Author
+---
+## 👨‍💻 Author
 
 Mukesh Setti
 GitHub: @MukeshSetti
