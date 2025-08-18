@@ -81,3 +81,22 @@ A robust and scalable Point of Sale (POS) system tailored for restaurant operati
       ```bash
       cd frontend
       npm run dev
+      
+---
+
+🧪 **Screenshots**
+
+Add screenshots or screen recordings here to show the interface.
+
+---
+
+📁 **Project Structure**
+```bash
+Restaurant_POS_System/
+├── backend/            # Node.js + Express API
+├── frontend/           # React.js client with Redux Toolkit
+├── README.md
+└── .gitignore
+
+---
+
