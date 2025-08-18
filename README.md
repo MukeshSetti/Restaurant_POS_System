@@ -101,7 +101,7 @@ Restaurant_POS_System/
 ---
 ## 👨‍💻 Author
 
-**Mukesh Setti**
+**Mukesh Setti** <br>
 GitHub: [@MukeshSetti](https://github.com/MukeshSetti)
 
 
